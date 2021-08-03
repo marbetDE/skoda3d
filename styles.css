@@ -123,7 +123,7 @@ model-viewer > #ar-prompt > img {
   pointer-events: auto;
 }
 .modal-window > div {
-  width: 400px;
+  width: 800px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -147,7 +147,7 @@ model-viewer > #ar-prompt > img {
   right: 0;
   text-align: center;
   top: 0;
-  width: 70px;
+  width: 700px;
   text-decoration: none;
 }
 .modal-close:hover {
