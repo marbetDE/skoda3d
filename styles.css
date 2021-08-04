@@ -51,11 +51,7 @@ model-viewer {
   background-position: 12px 50%;
   background-color: #4BA82E;
   
-  white-space: nowrap;
-  bottom: 132px;
-  padding: 0px 16px 0px 40px;
-  font-family: Roboto Regular, Helvetica Neue, sans-serif;
-  font-size: 14px;
+  
   color:#4285f4;
  */
   background-color: #4BA82E;
@@ -72,6 +68,11 @@ model-viewer {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
+  white-space: nowrap;
+  bottom: 132px;
+  padding: 0px 16px 0px 40px;
+  font-family: Roboto Regular, Helvetica Neue, sans-serif;
+  font-size: 14px;
 }
 
 #ar-button:active {
